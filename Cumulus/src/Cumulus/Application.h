@@ -13,7 +13,7 @@ namespace Cumulus {
 		void Run();
 	};
 
-	//Defined in CLIENT
+	//Defined in client
 	Application* CreateApplication();
 
 }
