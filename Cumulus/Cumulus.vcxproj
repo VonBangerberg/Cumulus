@@ -16,10 +16,12 @@
     <ClInclude Include="src\Cumulus\Core.h" />
     <ClInclude Include="src\Cumulus.h" />
     <ClInclude Include="src\Cumulus\EntryPoint.h" />
+    <ClInclude Include="src\Cumulus\Logger.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Cumulus\Log.cpp" />
     <ClCompile Include="src\Cumulus\Application.cpp" />
+    <ClCompile Include="src\Cumulus\Logger.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
