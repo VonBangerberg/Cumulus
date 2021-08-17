@@ -1,4 +1,1 @@
 
-[submodule "Cumuls/vendor/spdlog"]
-	path = Cumuls/vendor/spdlog
-	url = https://github.com/gabime/spdlog
